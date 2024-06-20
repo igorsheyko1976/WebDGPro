@@ -1,0 +1,44 @@
+/* styles.css */
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Custom card styles */
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    border-radius: 0;
+}
+
+.card-body {
+    background-color: #fff;
+    padding: 20px;
+}
+
+/* Custom navigation link styles */
+.nav-link {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: #0056b3;
+}
+
+/* Custom list group item styles */
+.list-group-item {
+    border: none;
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+}
+
+.list-group-item:hover {
+    background-color: #e2e6ea;
+}
