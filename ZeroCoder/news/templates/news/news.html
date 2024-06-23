@@ -1,0 +1,19 @@
+{% extends 'main/layoute.html' %}
+
+{% block content %}
+<div class="container">
+    <h1>Новости</h1>
+    <p>Новости компании CatDjango.</p>
+</div>
+
+{% for new in news %}
+	<div>
+		<h3> {{ new.title }} </h3>
+		<p> {{ new.short_description }} </p>
+        <p> {{ new.text }} </p>
+		<p> {{ new.pub_date }} </p>
+		<p> {{ new.id }} </p>
+	</div>
+{% endfor %}
+
+{% endblock %}

@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6d3d2cd-569b-40d5-ad23-157a670e212e" name="Changes" comment="end">
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/news/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WebDGProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebDGProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layoute.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layoute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/templates/main/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/menu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +32,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ZeroCoder" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -38,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.manage.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
